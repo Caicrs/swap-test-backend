@@ -8,5 +8,5 @@ I use node.js + seaport, this server create, assign and receive swaps.
 
 - /create-swap
 - /assign-swap
-- /receive-swap
+- /all-orders?paymentTokenAddress=0x1f984...
 
