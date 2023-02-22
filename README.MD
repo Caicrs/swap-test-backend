@@ -1,7 +1,8 @@
 
 # Swap backend
 
-I use node.js + seaport, this server create, assign and receive swaps.
+node.js + seaport
+This server create, assign and receive swaps.
 
 
 ## Routes
